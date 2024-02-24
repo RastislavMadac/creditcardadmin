@@ -1,3 +1,6 @@
+# Name of project
+CRUD Database of Credit Cards runs on JSON database
+
 # Creditcardadmin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
